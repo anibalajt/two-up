@@ -1,3 +1,7 @@
+from PyQt5.QtWidgets import QApplication
+from PyQt5.QtWidgets import QLabel
+from PyQt5.QtWidgets import QWidget
+
 import random
 lost = 0
 won = 0
